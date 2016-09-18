@@ -1,0 +1,368 @@
+[
+    {
+        "outputFile": "C:\\Users\\Oleg Nevedrov\\Google Drive\\Projects\\Android\\restik\\app\\build\\intermediates\\res\\merged\\debug\\values-en\\values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "C:\\Users\\Oleg Nevedrov\\Google Drive\\Projects\\Android\\restik\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 43,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 47,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "C:\\Users\\Oleg Nevedrov\\Google Drive\\Projects\\Android\\restik\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 909,
+                        "endColumn": 47,
+                        "endOffset": 952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 147,
+                    "endColumn": 50,
+                    "endOffset": 193
+                },
+                "from": {
+                    "file": "C:\\Users\\Oleg Nevedrov\\Google Drive\\Projects\\Android\\restik\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 50,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 198,
+                    "endColumn": 46,
+                    "endOffset": 240
+                },
+                "from": {
+                    "file": "C:\\Users\\Oleg Nevedrov\\Google Drive\\Projects\\Android\\restik\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 46,
+                        "endOffset": 196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 245,
+                    "endColumn": 54,
+                    "endOffset": 295
+                },
+                "from": {
+                    "file": "C:\\Users\\Oleg Nevedrov\\Google Drive\\Projects\\Android\\restik\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 202,
+                        "endColumn": 54,
+                        "endOffset": 252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 300,
+                    "endColumn": 61,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "C:\\Users\\Oleg Nevedrov\\Google Drive\\Projects\\Android\\restik\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 958,
+                        "endColumn": 61,
+                        "endOffset": 1015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 51,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "C:\\Users\\Oleg Nevedrov\\Google Drive\\Projects\\Android\\restik\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1271,
+                        "endColumn": 51,
+                        "endOffset": 1318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 53,
+                    "endOffset": 463
+                },
+                "from": {
+                    "file": "C:\\Users\\Oleg Nevedrov\\Google Drive\\Projects\\Android\\restik\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1324,
+                        "endColumn": 53,
+                        "endOffset": 1373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 468,
+                    "endColumn": 44,
+                    "endOffset": 508
+                },
+                "from": {
+                    "file": "C:\\Users\\Oleg Nevedrov\\Google Drive\\Projects\\Android\\restik\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 258,
+                        "endColumn": 44,
+                        "endOffset": 298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 513,
+                    "endColumn": 115,
+                    "endOffset": 624
+                },
+                "from": {
+                    "file": "C:\\Users\\Oleg Nevedrov\\Google Drive\\Projects\\Android\\restik\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1154,
+                        "endColumn": 115,
+                        "endOffset": 1265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 629,
+                    "endColumn": 85,
+                    "endOffset": 710
+                },
+                "from": {
+                    "file": "C:\\Users\\Oleg Nevedrov\\Google Drive\\Projects\\Android\\restik\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 304,
+                        "endColumn": 85,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 715,
+                    "endColumn": 99,
+                    "endOffset": 810
+                },
+                "from": {
+                    "file": "C:\\Users\\Oleg Nevedrov\\Google Drive\\Projects\\Android\\restik\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 99,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 815,
+                    "endColumn": 107,
+                    "endOffset": 918
+                },
+                "from": {
+                    "file": "C:\\Users\\Oleg Nevedrov\\Google Drive\\Projects\\Android\\restik\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 107,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 923,
+                    "endColumn": 102,
+                    "endOffset": 1021
+                },
+                "from": {
+                    "file": "C:\\Users\\Oleg Nevedrov\\Google Drive\\Projects\\Android\\restik\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 601,
+                        "endColumn": 102,
+                        "endOffset": 699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1026,
+                    "endColumn": 96,
+                    "endOffset": 1118
+                },
+                "from": {
+                    "file": "C:\\Users\\Oleg Nevedrov\\Google Drive\\Projects\\Android\\restik\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 705,
+                        "endColumn": 96,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1123,
+                    "endColumn": 58,
+                    "endOffset": 1177
+                },
+                "from": {
+                    "file": "C:\\Users\\Oleg Nevedrov\\Google Drive\\Projects\\Android\\restik\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 58,
+                        "endOffset": 903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1182,
+                    "endColumn": 55,
+                    "endOffset": 1233
+                },
+                "from": {
+                    "file": "C:\\Users\\Oleg Nevedrov\\Google Drive\\Projects\\Android\\restik\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1021,
+                        "endColumn": 55,
+                        "endOffset": 1072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1238,
+                    "endColumn": 44,
+                    "endOffset": 1278
+                },
+                "from": {
+                    "file": "C:\\Users\\Oleg Nevedrov\\Google Drive\\Projects\\Android\\restik\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 803,
+                        "endColumn": 44,
+                        "endOffset": 843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1283,
+                    "endColumn": 74,
+                    "endOffset": 1353
+                },
+                "from": {
+                    "file": "C:\\Users\\Oleg Nevedrov\\Google Drive\\Projects\\Android\\restik\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1078,
+                        "endColumn": 74,
+                        "endOffset": 1148
+                    }
+                }
+            }
+        ]
+    }
+]
